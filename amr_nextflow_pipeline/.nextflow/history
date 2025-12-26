@@ -1,0 +1,3 @@
+2025-12-12 08:31:56	2.3s	tender_khorana	ERR	1d5e331b64fb64e2df8e4964ee14e3b8	5b968f60-55e5-4d5f-a2e8-1c6a2bab94c2	nextflow run amr_pipeline2.nf
+2025-12-12 08:43:13	2.4s	determined_ptolemy	ERR	64df5eb70100984e235244ae403f293c	28ee05a1-2c48-461d-a82d-b97654ab8bd9	nextflow run amr_pipeline2.nf
+2025-12-12 08:43:45	1.9s	scruffy_church	ERR	64df5eb70100984e235244ae403f293c	b31bf924-8cb9-45c7-aced-07d17bb1bdc2	nextflow run amr_pipeline2.nf

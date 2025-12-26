@@ -1,0 +1,22 @@
+# Raw sequencing data
+*.fastq
+*.fastq.gz
+
+# Reports
+*_fastp_report.html
+*_fastp_report.json
+
+# Assembly & results
+*_spades
+SPAdes_results/
+assemblies/
+assembly_flye/
+assembly_unicycler/
+IS_results/
+genome_analysis_results/
+snap/
+WGS_Analysis/
+
+# Zips
+*.zip
+
